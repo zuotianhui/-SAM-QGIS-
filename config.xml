@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<config>
+  <model_path>C:/Data/SAM/modelSAM2/sam2.1_hiera_large.pt</model_path>
+  <sam2_config_path>C:/Data/SAM/modelSAM2/sam2.1/sam2.1_hiera_l.yaml</sam2_config_path>
+  <model_type>vit_l</model_type>
+</config>

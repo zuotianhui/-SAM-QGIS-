@@ -1,0 +1,13 @@
+[general]
+name=SAM2影像自动分割标注工具
+qgisMinimumVersion=3.16
+description=基于SAM2模型的遥感影像自动分割与标注工具，支持交互式点选标注前景和背景区域，生成矢量边界。
+version=1.0.0
+author=您的姓名
+email=您的邮箱
+about=该插件利用SAM2(Segment Anything Model 2)模型实现遥感影像的自动分割，支持通过点选方式交互标注前景和背景，快速生成矢量边界。
+repository=https://github.com/您的仓库地址
+tracker=https://github.com/您的仓库地址/issues
+tags=影像分割,机器学习,SAM2,遥感,矢量标注
+category=Raster
+icon=icons/sam2_icon.png
